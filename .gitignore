@@ -1,0 +1,24 @@
+# Unity temp/cache folders (at repository root)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio/Rider generated solution files (at repository root)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Ensure these are not ignored (whitelist)
+!Assets/
+!Packages/
+!ProjectSettings/
+!Build_PA4/
